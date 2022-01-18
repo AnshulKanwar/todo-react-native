@@ -1,0 +1,3 @@
+1. Delete todos using swipe right action
+2. Add animation for deleting todos
+3. [Important] Make Scroll work
